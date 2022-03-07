@@ -1,5 +1,5 @@
 <?php 
-$description = 'Leading dentist in Fresno, CA, Dr. Castillo provides full dentistry services including cleanings, fillings, orthodontics, cosmetic & implants. Call us today!';
+$description = 'Leading dentist in Fresno, CA, Dr. Castillo provides full dentistry services including cleanings, fillings, orthodontics, cosmetic & implants. Call us todays!';
 $title = 'Dentist Fresno, CA | Luis Castillo Professional Dental Corp.';
 include 'includes/header.php';?>
 
