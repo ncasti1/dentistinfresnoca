@@ -5,9 +5,9 @@
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<meta name="author" content="DevSolutions">
-	<meta name="description" content="Best Premium HTML5 Theme">
+	<meta name="description" content="Fix damaged teeth with dental crowns & bridges. We have experience with teeth straightening, teeth whitening &crowns. Call to book for orthodontic treatment in Fresno.">
 
-	<title>DENTIST - Dental & Medical One Page HTML5</title>
+	<title>Advanced Orthodontics in  FRESNO - Dental Crowns & Bridges Fresno</title>
 
 	<!-- Fonts Google Roboto & Montserat & Open Sans, Glyphicons, Font Awesome, AND Icons  -->
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic%7CMontserrat:400,700%7COpen+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
